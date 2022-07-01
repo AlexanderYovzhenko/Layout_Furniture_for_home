@@ -777,7 +777,7 @@ body {
   content: "    /    ";
 }
 
-.page__catalog {
+.page__catalog { 
   padding: 60px 10px;
 }
 @media (max-width: 1200px) {
